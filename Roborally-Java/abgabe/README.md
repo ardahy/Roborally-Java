@@ -1,7 +1,3 @@
-# RoboRally
-
-This is not the right jar. Please go to fixedJar Folder!!!!!
-
 ## Start jar 
 
 Server:
