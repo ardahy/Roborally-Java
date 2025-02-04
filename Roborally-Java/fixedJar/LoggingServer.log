@@ -1,0 +1,296 @@
+Feb 04, 2025 7:05:51 AM server.Server createServer
+SEVERE: [32mStarting server...[32m
+Feb 04, 2025 7:05:51 AM server.Server createServer
+INFO: [32mWaiting for new client connection...[32m
+Feb 04, 2025 7:11:50 AM server.Server createServer
+SEVERE: [32mStarting server...[32m
+Feb 04, 2025 7:11:50 AM server.Server createServer
+INFO: [32mWaiting for new client connection...[32m
+Feb 04, 2025 7:13:09 AM server.Server createServer
+INFO: [32mClient parameters 127.0.0.1[32m
+Feb 04, 2025 7:13:09 AM server.Server createServer
+INFO: [32mWaiting for new client connection...[32m
+Feb 04, 2025 7:13:09 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@69c9fb8e1 {"messageType":"Welcome","messageBody":{"clientID":1}}
+Feb 04, 2025 7:15:16 AM server.Server createServer
+INFO: [32mClient parameters 127.0.0.1[32m
+Feb 04, 2025 7:15:16 AM server.Server createServer
+INFO: [32mWaiting for new client connection...[32m
+Feb 04, 2025 7:15:16 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@c42785b2 {"messageType":"Welcome","messageBody":{"clientID":2}}
+Feb 04, 2025 7:15:41 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2444ef8a2 {"messageType":"PlayerValues","messageBody":{"name":"a3","figure":1}}
+Feb 04, 2025 7:15:41 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7ec42d802 {"messageType":"SendChat","messageBody":{"message":"Info about current players:","to":2}}
+Feb 04, 2025 7:15:41 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@76f363a82 {"messageType":"PlayerAdded","messageBody":{"clientID":2,"name":"a3","figure":1}}
+Feb 04, 2025 7:15:41 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@23c576402 {"messageType":"SendChat","messageBody":{"message":"The map is: empty","to":2}}
+Feb 04, 2025 7:15:42 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@3cc086cd2 {"messageType":"SetStatus","messageBody":{"ready":true}}
+Feb 04, 2025 7:15:42 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@64a5aac12 {"messageType":"SelectMap","messageBody":{"availableMaps":["DizzyHighway","ExtraCrispy","LostBearings","DeathTrap"]}}
+Feb 04, 2025 7:15:42 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2b5fc8ca2 {"messageType":"SendChat","messageBody":{"message":"FirstReadyPlayersID2","to":2}}
+Feb 04, 2025 7:15:42 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@27d4a6082 {"messageType":"Error","messageBody":{"error":"Waiting until a map is selected..."}}
+Feb 04, 2025 7:15:45 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5fc08a491 {"messageType":"PlayerValues","messageBody":{"name":"Arda1","figure":4}}
+Feb 04, 2025 7:15:45 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@73d0cca21 {"messageType":"SendChat","messageBody":{"message":"Info about current players:","to":1}}
+Feb 04, 2025 7:15:45 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@129971b11 {"messageType":"PlayerAdded","messageBody":{"clientID":2,"name":"a3","figure":1}}
+Feb 04, 2025 7:15:45 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@49d023691 {"messageType":"PlayerAdded","messageBody":{"clientID":1,"name":"Arda1","figure":4}}
+Feb 04, 2025 7:15:45 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@3a05022a1 {"messageType":"SendChat","messageBody":{"message":"The map is: empty","to":1}}
+Feb 04, 2025 7:15:46 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4fc57c141 {"messageType":"SetStatus","messageBody":{"ready":true}}
+Feb 04, 2025 7:15:46 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4c0d67ce1 {"messageType":"Error","messageBody":{"error":"Waiting until a map is selected..."}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@9260a5a2 {"messageType":"MapSelected","messageBody":{"map":"ExtraCrispy"}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@9260a5a1 {"messageType":"MapSelected","messageBody":{"map":"ExtraCrispy"}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@72cd99a92 {"messageType":"ActivePhase","messageBody":{"phase":0}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@72cd99a91 {"messageType":"ActivePhase","messageBody":{"phase":0}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@67d5d0302 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@67d5d0301 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4b9d2a9f2 {"messageType":"SendChat","messageBody":{"message":"Game starts now.","to":-1}}
+Feb 04, 2025 7:15:51 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4b9d2a9f1 {"messageType":"SendChat","messageBody":{"message":"Game starts now.","to":-1}}
+Feb 04, 2025 7:15:59 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@69948f12 {"messageType":"StartingPointTaken","messageBody":{"x":1,"y":4,"clientID":2}}
+Feb 04, 2025 7:15:59 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@69948f11 {"messageType":"StartingPointTaken","messageBody":{"x":1,"y":4,"clientID":2}}
+Feb 04, 2025 7:15:59 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5c2b04952 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:15:59 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5c2b04951 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:15:59 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@33c807872 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west]","to":-1}}
+Feb 04, 2025 7:15:59 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@33c807871 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west]","to":-1}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@28cc87872 {"messageType":"StartingPointTaken","messageBody":{"x":0,"y":6,"clientID":1}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@28cc87871 {"messageType":"StartingPointTaken","messageBody":{"x":0,"y":6,"clientID":1}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7ad367922 {"messageType":"ActivePhase","messageBody":{"phase":1}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7ad367921 {"messageType":"ActivePhase","messageBody":{"phase":1}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@772ad70f2 {"messageType":"Energy","messageBody":{"clientID":2,"count":5,"source":"EnergySpace"}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6f2b8a1d1 {"messageType":"Energy","messageBody":{"clientID":1,"count":5,"source":"EnergySpace"}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@3d68d7aa2 {"messageType":"RefillShop","messageBody":{"cards":["ADMIN PRIVILEGE","ADMIN PRIVILEGE"]}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@3d68d7aa1 {"messageType":"RefillShop","messageBody":{"cards":["ADMIN PRIVILEGE","ADMIN PRIVILEGE"]}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@580810442 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@580810441 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@49bb95be2 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-west]","to":-1}}
+Feb 04, 2025 7:16:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@49bb95be1 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-west]","to":-1}}
+Feb 04, 2025 7:16:22 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@155dcfb82 {"messageType":"Error","messageBody":{"error":"You did not choose a valid player."}}
+Feb 04, 2025 7:16:38 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6e50127a2 {"messageType":"UpgradeBought","messageBody":{"clientID":2,"card":"ADMIN PRIVILEGE"}}
+Feb 04, 2025 7:16:38 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6e50127a1 {"messageType":"UpgradeBought","messageBody":{"clientID":2,"card":"ADMIN PRIVILEGE"}}
+Feb 04, 2025 7:16:38 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4109cbc12 {"messageType":"RefillShop","messageBody":{"cards":["ADMIN PRIVILEGE"]}}
+Feb 04, 2025 7:16:38 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4109cbc11 {"messageType":"RefillShop","messageBody":{"cards":["ADMIN PRIVILEGE"]}}
+Feb 04, 2025 7:16:38 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6b23733e2 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:16:38 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6b23733e1 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@3c1375202 {"messageType":"UpgradeBought","messageBody":{"clientID":1,"card":"ADMIN PRIVILEGE"}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@3c1375201 {"messageType":"UpgradeBought","messageBody":{"clientID":1,"card":"ADMIN PRIVILEGE"}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2a4d7fe52 {"messageType":"RefillShop","messageBody":{"cards":[]}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2a4d7fe51 {"messageType":"RefillShop","messageBody":{"cards":[]}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@32dfc0d82 {"messageType":"ActivePhase","messageBody":{"phase":2}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@32dfc0d81 {"messageType":"ActivePhase","messageBody":{"phase":2}}
+Feb 04, 2025 7:16:53 AM server.Server handOut9Cards
+INFO: [32mProgramming Deck in First Round of Player 2 : [Again, TurnLeft, BackUp, TurnRight, TurnLeft, Move1, TurnRight, TurnRight, Move1, Move2, Move2, TurnLeft, UTurn, Move3, Again, Move1, Move1, PowerUp, Move2, Move1][32m
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6026190f2 {"messageType":"YourCards","messageBody":{"cardsInHand":["Again","TurnLeft","BackUp","TurnRight","TurnLeft","Move1","TurnRight","TurnRight","Move1"]}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5f523e882 {"messageType":"SendChat","messageBody":{"message":"Please fill your registers 0 to 4.","to":-1}}
+Feb 04, 2025 7:16:53 AM server.Server handOut9Cards
+INFO: [32mProgramming Deck in First Round of Player 1 : [Move2, TurnRight, TurnRight, Move1, BackUp, Move1, Move1, Move2, Move1, Again, TurnLeft, TurnLeft, PowerUp, Again, Move1, UTurn, TurnRight, Move3, Move2, TurnLeft][32m
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@44e6f5891 {"messageType":"YourCards","messageBody":{"cardsInHand":["Move2","TurnRight","TurnRight","Move1","BackUp","Move1","Move1","Move2","Move1"]}}
+Feb 04, 2025 7:16:53 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7d262cd11 {"messageType":"SendChat","messageBody":{"message":"Please fill your registers 0 to 4.","to":-1}}
+Feb 04, 2025 7:17:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@311bf322 {"messageType":"SelectedCard","messageBody":{"card":"TurnLeft","register":0}}
+Feb 04, 2025 7:17:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@bee7c822 {"messageType":"YourCards","messageBody":{"cardsInHand":["Again","BackUp","TurnRight","TurnLeft","Move1","TurnRight","TurnRight","Move1"]}}
+Feb 04, 2025 7:17:02 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@25b619002 {"messageType":"SelectedCard","messageBody":{"card":"TurnRight","register":1}}
+Feb 04, 2025 7:17:02 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@1dfac46a2 {"messageType":"YourCards","messageBody":{"cardsInHand":["Again","BackUp","TurnLeft","Move1","TurnRight","TurnRight","Move1"]}}
+Feb 04, 2025 7:17:06 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6508b13b2 {"messageType":"SelectedCard","messageBody":{"card":"Move1","register":2}}
+Feb 04, 2025 7:17:06 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2dbc67eb2 {"messageType":"YourCards","messageBody":{"cardsInHand":["Again","BackUp","TurnLeft","TurnRight","TurnRight","Move1"]}}
+Feb 04, 2025 7:17:12 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@662e3fa22 {"messageType":"SelectedCard","messageBody":{"card":"Null","register":3}}
+Feb 04, 2025 7:17:12 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@285626a52 {"messageType":"YourCards","messageBody":{"cardsInHand":["Again","BackUp","TurnLeft","TurnRight","TurnRight","Move1"]}}
+Feb 04, 2025 7:17:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@669b9f7b2 {"messageType":"SelectedCard","messageBody":{"card":"Null","register":4}}
+Feb 04, 2025 7:17:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@49b1c4482 {"messageType":"YourCards","messageBody":{"cardsInHand":["Again","BackUp","TurnLeft","TurnRight","TurnRight","Move1"]}}
+Feb 04, 2025 7:17:25 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2d98bc1b1 {"messageType":"SelectedCard","messageBody":{"card":"BackUp","register":0}}
+Feb 04, 2025 7:17:25 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@10498a141 {"messageType":"YourCards","messageBody":{"cardsInHand":["Move2","TurnRight","TurnRight","Move1","Move1","Move1","Move2","Move1"]}}
+Feb 04, 2025 7:17:26 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5cc57c681 {"messageType":"SelectedCard","messageBody":{"card":"TurnRight","register":1}}
+Feb 04, 2025 7:17:26 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@544f96ca1 {"messageType":"YourCards","messageBody":{"cardsInHand":["Move2","TurnRight","Move1","Move1","Move1","Move2","Move1"]}}
+Feb 04, 2025 7:17:28 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@88abf7d1 {"messageType":"SelectedCard","messageBody":{"card":"Move1","register":2}}
+Feb 04, 2025 7:17:28 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@60cd315f1 {"messageType":"YourCards","messageBody":{"cardsInHand":["Move2","TurnRight","Move1","Move1","Move2","Move1"]}}
+Feb 04, 2025 7:17:29 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@489c124a1 {"messageType":"SelectedCard","messageBody":{"card":"Move2","register":3}}
+Feb 04, 2025 7:17:29 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@37e8a1991 {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnRight","Move1","Move1","Move2","Move1"]}}
+Feb 04, 2025 7:17:30 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@3e2639f21 {"messageType":"SelectedCard","messageBody":{"card":"Move2","register":4}}
+Feb 04, 2025 7:17:30 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@24f9e381 {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnRight","Move1","Move1","Move1"]}}
+Feb 04, 2025 7:17:30 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@14fb2cbb2 {"messageType":"SelectionFinished","messageBody":{"clientID":1}}
+Feb 04, 2025 7:17:30 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@14fb2cbb1 {"messageType":"SelectionFinished","messageBody":{"clientID":1}}
+Feb 04, 2025 7:17:30 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5002bb7e2 {"messageType":"TimerStarted","messageBody":{}}
+Feb 04, 2025 7:17:30 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5002bb7e1 {"messageType":"TimerStarted","messageBody":{}}
+Feb 04, 2025 7:18:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@e00e8e12 {"messageType":"TimerEnded","messageBody":{"clientIDs":[2]}}
+Feb 04, 2025 7:18:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@e00e8e11 {"messageType":"TimerEnded","messageBody":{"clientIDs":[2]}}
+Feb 04, 2025 7:18:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@30c38c512 {"messageType":"CardsYouGotNow","messageBody":{"cards":["Move1","PowerUp"]}}
+Feb 04, 2025 7:18:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@566e26eb2 {"messageType":"YourCards","messageBody":{"cardsInHand":[]}}
+Feb 04, 2025 7:18:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6d7da6b71 {"messageType":"YourCards","messageBody":{"cardsInHand":[]}}
+Feb 04, 2025 7:18:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@114ec3b02 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:18:00 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@114ec3b01 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:18:11 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2aa93b2b2 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:11 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2aa93b2b1 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:11 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@48cf03df2 {"messageType":"PlayCard","messageBody":{"card":"TurnLeft"}}
+Feb 04, 2025 7:18:11 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2beb5a422 {"messageType":"PlayerTurning","messageBody":{"clientID":2,"rotation":"counterclockwise"}}
+Feb 04, 2025 7:18:11 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5f640dd32 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-west]","to":-1}}
+Feb 04, 2025 7:18:11 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@5f640dd31 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-west]","to":-1}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@66a910162 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@66a910161 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@23359ef61 {"messageType":"PlayCard","messageBody":{"card":"BackUp"}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@39a3b4622 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@39a3b4621 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@1790a4d11 {"messageType":"SendChat","messageBody":{"message":"You were knocked off the board!","to":1}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6c54e1311 {"messageType":"DrawDamage","messageBody":{"clientID":1,"cards":["Spam","Spam"]}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2bb0845a1 {"messageType":"Reboot","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@257bcd431 {"messageType":"Movement","messageBody":{"clientID":1,"x":0,"y":6}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@f0427b52 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-south]","to":-1}}
+Feb 04, 2025 7:18:14 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@f0427b51 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-south]","to":-1}}
+Feb 04, 2025 7:18:15 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6d63f94f2 {"messageType":"PlayCard","messageBody":{"card":"Activate"}}
+Feb 04, 2025 7:18:15 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@63a40a932 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:15 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@63a40a931 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:15 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@28e4bc942 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:18:15 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@28e4bc941 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:18:15 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@42ee62042 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-south]","to":-1}}
+Feb 04, 2025 7:18:15 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@42ee62041 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-south]","to":-1}}
+Feb 04, 2025 7:18:17 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4fa74bac2 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-south, green_0_6-east]","to":-1}}
+Feb 04, 2025 7:18:17 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4fa74bac1 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-south, green_0_6-south, green_0_6-east]","to":-1}}
+Feb 04, 2025 7:18:17 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@758be66f1 {"messageType":"RebootDirection","messageBody":{"direction":"left"}}
+Feb 04, 2025 7:18:20 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7f5e01f52 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:20 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7f5e01f51 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:20 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2b91582 {"messageType":"PlayCard","messageBody":{"card":"TurnRight"}}
+Feb 04, 2025 7:18:20 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@78ef71d62 {"messageType":"PlayerTurning","messageBody":{"clientID":2,"rotation":"clockwise"}}
+Feb 04, 2025 7:18:20 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@773186972 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-east]","to":-1}}
+Feb 04, 2025 7:18:20 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@773186971 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-east]","to":-1}}
+Feb 04, 2025 7:18:23 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@20768bbe2 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:23 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@20768bbe1 {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}
+Feb 04, 2025 7:18:23 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@55f95e371 {"messageType":"PlayCard","messageBody":{"card":"empty"}}
+Feb 04, 2025 7:18:23 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7feb72792 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:23 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@7feb72791 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:23 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6cd0dd782 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-east]","to":-1}}
+Feb 04, 2025 7:18:23 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@6cd0dd781 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-east]","to":-1}}
+Feb 04, 2025 7:18:24 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@41f721a82 {"messageType":"PlayCard","messageBody":{"card":"Activate"}}
+Feb 04, 2025 7:18:24 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4f30c7e62 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:24 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4f30c7e61 {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}
+Feb 04, 2025 7:18:24 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4b0f4ad82 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:18:24 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@4b0f4ad81 {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}
+Feb 04, 2025 7:18:24 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2bcc68782 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-east]","to":-1}}
+Feb 04, 2025 7:18:24 AM server.Server privateMessage
+INFO: SEND_CHAT: Contend of ReceivedChat utilities.objects.JSONMessage@2bcc68781 {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_4-west, green_0_6-east]","to":-1}}

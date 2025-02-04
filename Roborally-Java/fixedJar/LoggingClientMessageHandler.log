@@ -1,0 +1,334 @@
+Feb 04, 2025 7:13:09 AM utilities.objects.ClientMessageHandler handleHelloClient
+INFO: [36m( MESSAGE ): HelloClient protocol version 2.1[0m
+Feb 04, 2025 7:13:09 AM utilities.objects.ClientMessageHandler handleWelcome
+INFO: [36m( MESSAGE ): bodyObject.getClientID()[0m
+Feb 04, 2025 7:13:14 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:19 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:24 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:29 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:34 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:39 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:44 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:49 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:54 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:13:59 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:04 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:09 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:14 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:19 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:24 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:29 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:34 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:39 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:44 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:49 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:54 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:14:59 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:04 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:09 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:14 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:19 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:24 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:29 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:34 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:39 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:41 AM utilities.objects.ClientMessageHandler handlePlayerAdded
+INFO: [36m( MESSAGE ): Player 2 has chosen name: a3 and figure: 1[0m
+Feb 04, 2025 7:15:42 AM utilities.objects.ClientMessageHandler handlePlayerStatus
+INFO: [36m( MESSAGE ): Player 2 is ready[0m
+Feb 04, 2025 7:15:44 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:45 AM utilities.objects.ClientMessageHandler handlePlayerValues
+INFO: [36m( MESSAGE ): You chose name: Arda1 and figure: 4[0m
+Feb 04, 2025 7:15:45 AM utilities.objects.ClientMessageHandler handlePlayerAdded
+INFO: [36m( MESSAGE ): Player 1 has chosen name: Arda1 and figure: 4[0m
+Feb 04, 2025 7:15:45 AM utilities.objects.ClientMessageHandler handlePlayerAdded
+INFO: [36m( MESSAGE ): Player 2 has chosen name: a3 and figure: 1[0m
+Feb 04, 2025 7:15:45 AM utilities.objects.ClientMessageHandler handlePlayerAdded
+INFO: [36m( MESSAGE ): Player 1 has chosen name: Arda1 and figure: 4[0m
+Feb 04, 2025 7:15:46 AM utilities.objects.ClientMessageHandler handleSetStatus
+INFO: [36m( MESSAGE ): true[0m
+Feb 04, 2025 7:15:46 AM utilities.objects.ClientMessageHandler handlePlayerStatus
+INFO: [36m( MESSAGE ): Player 1 is ready[0m
+Feb 04, 2025 7:15:46 AM utilities.objects.ClientMessageHandler handleErrorMessage
+WARNING: [36m( MESSAGE ): Waiting until a map is selected...[0m
+Feb 04, 2025 7:15:49 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:51 AM utilities.objects.ClientMessageHandler handleMapSelected
+INFO: [36m( MESSAGE ): handleMapSelected im Client messageHandler: ExtraCrispy[0m
+Feb 04, 2025 7:15:51 AM utilities.objects.ClientMessageHandler handleGameStarted
+INFO: [36m( MESSAGE ): [[[model.field.RestartPoint@3703e985], [model.field.Empty@69e32320], [model.field.Empty@291e3a1b], [model.field.StartPoint@288df6b4], [model.field.Antenna@6a6de1], [model.field.Empty@70e0b4ef], [model.field.StartPoint@28f6960a], [model.field.Empty@6f09edf6], [model.field.Empty@3c5f8093], [model.field.Empty@496d0c3b]], [[model.field.Empty@553785da], [model.field.StartPoint@7571b4d7], [model.field.Wall@35eaf9f2], [model.field.Empty@14c737a0], [model.field.StartPoint@7d3769b7], [model.field.StartPoint@518bdca], [model.field.Empty@67dfe1f2], [model.field.Wall@4a08a09e], [model.field.StartPoint@cb412b9], [model.field.Empty@4c020808]], [[model.field.ConveyorBelt@544aa00b], [model.field.Empty@5bc9e64c], [model.field.Empty@77441656], [model.field.Empty@2b5a02fe], [model.field.Wall@2a91a566], [model.field.Wall@3e7eddfe], [model.field.Empty@695f8ac1], [model.field.Empty@126928e6], [model.field.Empty@35741558], [model.field.ConveyorBelt@7d2daf25]], [[model.field.Empty@68313bc3], [model.field.Empty@33c4103b], [model.field.Empty@268f1dce], [model.field.Empty@364bdabd], [model.field.Wall@57c51094, model.field.EnergySpace@4493979f], [model.field.Wall@1a2c93ae], [model.field.Empty@72da2c64], [model.field.Empty@de4c31b], [model.field.Empty@55139257], [model.field.EnergySpace@2b5ccab8]], [[model.field.ConveyorBelt@8c66abb], [model.field.ConveyorBelt@23919ca3], [model.field.ConveyorBelt@6ad933ac], [model.field.ConveyorBelt@279d2d45], [model.field.Empty@1cb518bf], [model.field.Empty@336eeb0e], [model.field.ConveyorBelt@1009ea9c], [model.field.ConveyorBelt@5eb00add], [model.field.ConveyorBelt@6a748154], [model.field.Wall@2e86218f, model.field.Laser@710463c9]], [[model.field.Empty@2fbc69d6], [model.field.Empty@610c3354], [model.field.Wall@7e19fca3, model.field.Laser@2c51c282, model.field.CheckPoint@606fec07], [model.field.ConveyorBelt@6079f5cd], [model.field.Empty@5134e185], [model.field.Empty@73d36cf3], [model.field.ConveyorBelt@6c43b95a], [model.field.Wall@433bee82, model.field.Laser@357517a9, model.field.CheckPoint@5d295100], [model.field.Empty@2c51aa96], [model.field.Empty@30821e60]], [[model.field.Empty@2dd79f86], [model.field.ConveyorBelt@3ae16a6d], [null], [null], [null], [model.field.Wall@1b4562bd], [null], [null], [model.field.Empty@3b940eab], [model.field.Wall@2a2e9df0, model.field.Laser@1b2d28da]], [[model.field.Empty@2b4de188], [model.field.ConveyorBelt@30b7431c], [model.field.Empty@6e2889e7], [model.field.Wall@1cb10700, model.field.Laser@5834e4bf], [model.field.Empty@5291f306], [model.field.EnergySpace@785c3f02], [model.field.Wall@6c41be0e, model.field.Laser@132fae25], [model.field.Empty@4e7b7685], [model.field.Empty@5746e467], [model.field.Empty@3616914f]], [[model.field.EnergySpace@58a65f2e], [model.field.Empty@4d7cc5e1], [model.field.Empty@2d7975f5], [model.field.Wall@2fe705fc, model.field.Laser@45d27001], [model.field.Empty@6e2ae697], [model.field.Empty@81af07a], [model.field.Wall@1fc5dc60, model.field.Laser@4941f5e1], [model.field.Empty@70e6ac00], [model.field.ConveyorBelt@2fa01b46], [model.field.Empty@1eb7f40e]], [[model.field.Wall@589ff4c4, model.field.Laser@1d5cd57b], [model.field.Empty@328987bd], [null], [null], [model.field.Wall@13bf0266], [null], [null], [null], [model.field.ConveyorBelt@3421fd01], [model.field.Empty@4f2d01f3]], [[model.field.Empty@3167c3c4], [model.field.Empty@5aa05bbc], [model.field.Wall@61526c1c, model.field.Laser@46d7db5c, model.field.CheckPoint@49a159a1], [model.field.ConveyorBelt@11848692], [model.field.Empty@63442a32], [model.field.Empty@1b31103d], [model.field.ConveyorBelt@589e2eab], [model.field.Wall@6d9b933c, model.field.Laser@2fcc3107, model.field.CheckPoint@3cef7c3b], [model.field.Empty@152df67b], [model.field.Empty@249e9591]], [[model.field.Wall@6a94dc0c, model.field.Laser@2d5d7bc1], [model.field.ConveyorBelt@5739de3f], [model.field.ConveyorBelt@7dbfb54], [model.field.ConveyorBelt@4b63231f], [model.field.EnergySpace@da6dac1], [model.field.Empty@14f7356c], [model.field.ConveyorBelt@4cae7dfd], [model.field.ConveyorBelt@1e87c4ac], [model.field.ConveyorBelt@25cc756f], [model.field.ConveyorBelt@8bd68ef]], [[model.field.Empty@3743ad90], [model.field.Empty@1741ad70], [model.field.Empty@51e0d5fa], [model.field.Empty@32793539], [model.field.Wall@187c31cb], [model.field.Wall@2cc3599], [model.field.Empty@55d46f3f], [model.field.Empty@2eff5841], [model.field.Empty@57f4c63c], [model.field.Empty@347741a6]]][0m
+Feb 04, 2025 7:15:51 AM utilities.objects.ClientMessageHandler handleActivePhase
+INFO: [36m( MESSAGE ): The Current Phase is 0[0m
+Feb 04, 2025 7:15:51 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 2[0m
+Feb 04, 2025 7:15:51 AM utilities.objects.ClientMessageHandler handleSendChat
+INFO: [36m( MESSAGE ): Game starts now[0m
+Feb 04, 2025 7:15:54 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:15:59 AM utilities.objects.ClientMessageHandler handleStartingPointTaken
+INFO: [36m( MESSAGE ): Player 2 has set their starting point to: X=1 and Y=4.[0m
+Feb 04, 2025 7:15:59 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 1[0m
+Feb 04, 2025 7:15:59 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:00 AM utilities.objects.ClientMessageHandler handleStartingPointTaken
+INFO: [36m( MESSAGE ): Player 1 has set their starting point to: X=0 and Y=6.[0m
+Feb 04, 2025 7:16:00 AM utilities.objects.ClientMessageHandler handleStartingPointTaken
+INFO: [36m( MESSAGE ): You have set your starting point to: X=0 and Y=6.[0m
+Feb 04, 2025 7:16:00 AM utilities.objects.ClientMessageHandler handleActivePhase
+INFO: [36m( MESSAGE ): The Current Phase is 1[0m
+Feb 04, 2025 7:16:00 AM utilities.objects.ClientMessageHandler handleEnergy
+INFO: [36m( MESSAGE ): You have 5 Energy cubes, you have obtained an energy cube through EnergySpace[0m
+Feb 04, 2025 7:16:00 AM utilities.objects.ClientMessageHandler handleRefillShop
+INFO: [36m( MESSAGE ): The available Upgrade cards are: [ADMIN PRIVILEGE, ADMIN PRIVILEGE][0m
+Feb 04, 2025 7:16:00 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 2[0m
+Feb 04, 2025 7:16:04 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:09 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:14 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:19 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:24 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:24 AM utilities.objects.ClientMessageHandler handleReceivedChat
+INFO: [36m( MESSAGE ): Entered handleReceivedChat()[0m
+Feb 04, 2025 7:16:29 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:34 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:38 AM utilities.objects.ClientMessageHandler handleUpgradeBought
+INFO: [36m( MESSAGE ): Client 2 has bought ADMIN PRIVILEGE[0m
+Feb 04, 2025 7:16:38 AM utilities.objects.ClientMessageHandler handleUpgradeBought
+INFO: [36m( MESSAGE ): t-upgrade cards:[][0m
+Feb 04, 2025 7:16:38 AM utilities.objects.ClientMessageHandler handleUpgradeBought
+INFO: [36m( MESSAGE ): p-upgrade cards:[][0m
+Feb 04, 2025 7:16:38 AM utilities.objects.ClientMessageHandler handleRefillShop
+INFO: [36m( MESSAGE ): The available Upgrade cards are: [ADMIN PRIVILEGE][0m
+Feb 04, 2025 7:16:38 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 1[0m
+Feb 04, 2025 7:16:39 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:44 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:49 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:53 AM utilities.objects.ClientMessageHandler handleUpgradeBought
+INFO: [36m( MESSAGE ): Client 1 has bought ADMIN PRIVILEGE[0m
+Feb 04, 2025 7:16:53 AM utilities.objects.ClientMessageHandler handleUpgradeBought
+INFO: [36m( MESSAGE ): t-upgrade cards:[][0m
+Feb 04, 2025 7:16:53 AM utilities.objects.ClientMessageHandler handleUpgradeBought
+INFO: [36m( MESSAGE ): p-upgrade cards:[ADMIN PRIVILEGE][0m
+Feb 04, 2025 7:16:53 AM utilities.objects.ClientMessageHandler handleRefillShop
+INFO: [36m( MESSAGE ): The available Upgrade cards are: [][0m
+Feb 04, 2025 7:16:53 AM utilities.objects.ClientMessageHandler handleActivePhase
+INFO: [36m( MESSAGE ): The Current Phase is 2[0m
+Feb 04, 2025 7:16:53 AM utilities.objects.ClientMessageHandler handleYourCards
+INFO: [36mYour cards are: [Move2, TurnRight, TurnRight, Move1, BackUp, Move1, Move1, Move2, Move1][0m
+Feb 04, 2025 7:16:54 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:16:59 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:00 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 2 has filled register 0.[0m
+Feb 04, 2025 7:17:02 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 2 has filled register 1.[0m
+Feb 04, 2025 7:17:04 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:06 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 2 has filled register 2.[0m
+Feb 04, 2025 7:17:09 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:12 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 2 has filled register 3.[0m
+Feb 04, 2025 7:17:14 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 2 has filled register 4.[0m
+Feb 04, 2025 7:17:14 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:19 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:24 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:25 AM utilities.objects.ClientMessageHandler handleSelectedCard
+INFO: [36m( MESSAGE ): Entered handleSelectedCard()You have put BackUp in register 0.[0m
+Feb 04, 2025 7:17:25 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 1 has filled register 0.[0m
+Feb 04, 2025 7:17:25 AM utilities.objects.ClientMessageHandler handleYourCards
+INFO: [36mYour cards are: [Move2, TurnRight, TurnRight, Move1, Move1, Move1, Move2, Move1][0m
+Feb 04, 2025 7:17:26 AM utilities.objects.ClientMessageHandler handleSelectedCard
+INFO: [36m( MESSAGE ): Entered handleSelectedCard()You have put TurnRight in register 1.[0m
+Feb 04, 2025 7:17:26 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 1 has filled register 1.[0m
+Feb 04, 2025 7:17:26 AM utilities.objects.ClientMessageHandler handleYourCards
+INFO: [36mYour cards are: [Move2, TurnRight, Move1, Move1, Move1, Move2, Move1][0m
+Feb 04, 2025 7:17:28 AM utilities.objects.ClientMessageHandler handleSelectedCard
+INFO: [36m( MESSAGE ): Entered handleSelectedCard()You have put Move1 in register 2.[0m
+Feb 04, 2025 7:17:28 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 1 has filled register 2.[0m
+Feb 04, 2025 7:17:28 AM utilities.objects.ClientMessageHandler handleYourCards
+INFO: [36mYour cards are: [Move2, TurnRight, Move1, Move1, Move2, Move1][0m
+Feb 04, 2025 7:17:29 AM utilities.objects.ClientMessageHandler handleSelectedCard
+INFO: [36m( MESSAGE ): Entered handleSelectedCard()You have put Move2 in register 3.[0m
+Feb 04, 2025 7:17:29 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 1 has filled register 3.[0m
+Feb 04, 2025 7:17:29 AM utilities.objects.ClientMessageHandler handleYourCards
+INFO: [36mYour cards are: [TurnRight, Move1, Move1, Move2, Move1][0m
+Feb 04, 2025 7:17:29 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:30 AM utilities.objects.ClientMessageHandler handleSelectedCard
+INFO: [36m( MESSAGE ): Entered handleSelectedCard()You have put Move2 in register 4.[0m
+Feb 04, 2025 7:17:30 AM utilities.objects.ClientMessageHandler handleCardSelected
+INFO: [36m( MESSAGE ): Player 1 has filled register 4.[0m
+Feb 04, 2025 7:17:30 AM utilities.objects.ClientMessageHandler handleYourCards
+INFO: [36mYour cards are: [TurnRight, Move1, Move1, Move1][0m
+Feb 04, 2025 7:17:30 AM utilities.objects.ClientMessageHandler handleSelectionFinished
+INFO: [36m( MESSAGE ): Player 1 finished Selection.[0m
+Feb 04, 2025 7:17:30 AM utilities.objects.ClientMessageHandler handleTimerStarted
+INFO: [36m( MESSAGE ): Timer has started.[0m
+Feb 04, 2025 7:17:34 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:39 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:44 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:49 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:54 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:17:59 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:00 AM utilities.objects.ClientMessageHandler handleTimerEnded
+INFO: [36mTimer ended. Late players are: [2][0m
+Feb 04, 2025 7:18:00 AM utilities.objects.ClientMessageHandler handleYourCards
+INFO: [36mYour cards are: [][0m
+Feb 04, 2025 7:18:00 AM utilities.objects.ClientMessageHandler handleActivePhase
+INFO: [36m( MESSAGE ): The Current Phase is 3[0m
+Feb 04, 2025 7:18:00 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 2[0m
+Feb 04, 2025 7:18:04 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:09 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:11 AM utilities.objects.ClientMessageHandler handleReceivedChat
+INFO: [36m( MESSAGE ): Entered handleReceivedChat()[0m
+Feb 04, 2025 7:18:11 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 1[0m
+Feb 04, 2025 7:18:11 AM utilities.objects.ClientMessageHandler handleCardPlayed
+INFO: [36m( MESSAGE ): 2 TurnLeft[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleReceivedChat
+INFO: [36m( MESSAGE ): Entered handleReceivedChat()[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 1[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handlePlayCard
+INFO: [36m( MESSAGE ): You played: BackUp[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 0[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleCardPlayed
+INFO: [36m( MESSAGE ): 1 BackUp[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleDrawDamage
+INFO: [36m( MESSAGE ): You have drawn these damage cards: [Spam, Spam][0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleReboot
+INFO: [36m( MESSAGE ): Player 1 gets rebooted[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleMovement
+INFO: [36m( MESSAGE ): Your new Position is: 06[0m
+Feb 04, 2025 7:18:14 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:15 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 0[0m
+Feb 04, 2025 7:18:15 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 2[0m
+Feb 04, 2025 7:18:17 AM utilities.objects.ClientMessageHandler handleRebootDirection
+INFO: [36m( MESSAGE ): Your new direction is left[0m
+Feb 04, 2025 7:18:19 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:20 AM utilities.objects.ClientMessageHandler handleReceivedChat
+INFO: [36m( MESSAGE ): Entered handleReceivedChat()[0m
+Feb 04, 2025 7:18:20 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 1[0m
+Feb 04, 2025 7:18:20 AM utilities.objects.ClientMessageHandler handleCardPlayed
+INFO: [36m( MESSAGE ): 2 TurnRight[0m
+Feb 04, 2025 7:18:23 AM utilities.objects.ClientMessageHandler handleReceivedChat
+INFO: [36m( MESSAGE ): Entered handleReceivedChat()[0m
+Feb 04, 2025 7:18:23 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 1[0m
+Feb 04, 2025 7:18:23 AM utilities.objects.ClientMessageHandler handlePlayCard
+INFO: [36m( MESSAGE ): You played: empty[0m
+Feb 04, 2025 7:18:23 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 0[0m
+Feb 04, 2025 7:18:23 AM utilities.objects.ClientMessageHandler handleCardPlayed
+INFO: [36m( MESSAGE ): 1 empty[0m
+Feb 04, 2025 7:18:24 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:24 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 0[0m
+Feb 04, 2025 7:18:24 AM utilities.objects.ClientMessageHandler handleCurrentPlayer
+INFO: [36m( MESSAGE ): The Current Player is 2[0m
+Feb 04, 2025 7:18:29 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:34 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:39 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:44 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:49 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:54 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:18:59 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:04 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:09 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:14 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:19 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:24 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:29 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:34 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:39 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:44 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:49 AM utilities.objects.ClientMessageHandler handleAliveObj
+INFO: [36m( MESSAGE ): Alive Message response[0m
+Feb 04, 2025 7:19:50 AM utilities.objects.ClientMessageHandler handleConnectionUpdate
+INFO: [36m( MESSAGE ): Entered handleConnectionUpdate()[0m

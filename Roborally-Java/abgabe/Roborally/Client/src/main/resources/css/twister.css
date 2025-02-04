@@ -1,0 +1,4 @@
+.root{
+    -fx-background-image: url("../images/Twister.jpeg");
+    -fx-background-size: cover;
+}

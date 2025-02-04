@@ -1,0 +1,472 @@
+Feb. 11, 2022 12:59:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"HelloClient","messageBody":{"protocol":"Version 2.1"}}utilities.objects.JSONMessage@1e067b72[32m
+Feb. 11, 2022 12:59:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Welcome","messageBody":{"clientID":1}}utilities.objects.JSONMessage@fc52ffa[32m
+Feb. 11, 2022 12:59:05 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@49091ddb[32m
+Feb. 11, 2022 12:59:10 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@6f9551ff[32m
+Feb. 11, 2022 12:59:15 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@4d51df0a[32m
+Feb. 11, 2022 12:59:20 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7d85b7d0[32m
+Feb. 11, 2022 12:59:25 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7c638a7e[32m
+Feb. 11, 2022 12:59:30 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@39bc26a4[32m
+Feb. 11, 2022 12:59:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7a560716[32m
+Feb. 11, 2022 12:59:40 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2abd04bb[32m
+Feb. 11, 2022 1:06:53 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"HelloClient","messageBody":{"protocol":"Version 2.1"}}utilities.objects.JSONMessage@55a242a5[32m
+Feb. 11, 2022 1:06:54 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Welcome","messageBody":{"clientID":1}}utilities.objects.JSONMessage@1aa77601[32m
+Feb. 11, 2022 1:06:58 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@18c0f277[32m
+Feb. 11, 2022 1:06:59 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerValues","messageBody":{"name":"b","figure":1}}utilities.objects.JSONMessage@39769810[32m
+Feb. 11, 2022 1:06:59 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerAdded","messageBody":{"clientID":1,"name":"b","figure":1}}utilities.objects.JSONMessage@675b29d[32m
+Feb. 11, 2022 1:06:59 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Info about current players:","to":1}}utilities.objects.JSONMessage@61a4243[32m
+Feb. 11, 2022 1:07:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerAdded","messageBody":{"clientID":1,"name":"b","figure":1}}utilities.objects.JSONMessage@7457c264[32m
+Feb. 11, 2022 1:07:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"The map is: empty","to":1}}utilities.objects.JSONMessage@7200e429[32m
+Feb. 11, 2022 1:07:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SetStatus","messageBody":{"ready":true}}utilities.objects.JSONMessage@26dcb870[32m
+Feb. 11, 2022 1:07:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerStatus","messageBody":{"clientID":1,"ready":true}}utilities.objects.JSONMessage@226beb14[32m
+Feb. 11, 2022 1:07:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectMap","messageBody":{"availableMaps":["DizzyHighway","ExtraCrispy","LostBearings","DeathTrap"]}}utilities.objects.JSONMessage@2b0eee46[32m
+Feb. 11, 2022 1:07:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"FirstReadyPlayersID1","to":1}}utilities.objects.JSONMessage@78b4079[32m
+Feb. 11, 2022 1:07:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Error","messageBody":{"error":"Waiting until a map is selected..."}}utilities.objects.JSONMessage@5b693cda[32m
+Feb. 11, 2022 1:07:03 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@749852f[32m
+Feb. 11, 2022 1:07:06 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerAdded","messageBody":{"clientID":2,"name":"r","figure":2}}utilities.objects.JSONMessage@5a1c9537[32m
+Feb. 11, 2022 1:07:06 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerStatus","messageBody":{"clientID":2,"ready":true}}utilities.objects.JSONMessage@3f1d05a7[32m
+Feb. 11, 2022 1:07:08 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2d006172[32m
+Feb. 11, 2022 1:07:09 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"MapSelected","messageBody":{"map":"DizzyHighway"}}utilities.objects.JSONMessage@66abe900[32m
+Feb. 11, 2022 1:07:09 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":0}}utilities.objects.JSONMessage@f476b41[32m
+Feb. 11, 2022 1:07:09 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@1e412cbc[32m
+Feb. 11, 2022 1:07:09 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Game starts now.","to":-1}}utilities.objects.JSONMessage@33ceac3d[32m
+Feb. 11, 2022 1:07:13 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@5e9e4cbb[32m
+Feb. 11, 2022 1:07:18 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@18f7bc11[32m
+Feb. 11, 2022 1:07:23 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@56d5a1c9[32m
+Feb. 11, 2022 1:07:28 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@69216b56[32m
+Feb. 11, 2022 1:07:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"StartingPointTaken","messageBody":{"x":0,"y":6,"clientID":1}}utilities.objects.JSONMessage@604422c6[32m
+Feb. 11, 2022 1:07:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@387e7f9a[32m
+Feb. 11, 2022 1:07:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_0_6-west]","to":-1}}utilities.objects.JSONMessage@24908037[32m
+Feb. 11, 2022 1:07:33 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@29063d9f[32m
+Feb. 11, 2022 1:07:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"StartingPointTaken","messageBody":{"x":0,"y":3,"clientID":2}}utilities.objects.JSONMessage@93791b0[32m
+Feb. 11, 2022 1:07:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":1}}utilities.objects.JSONMessage@52680382[32m
+Feb. 11, 2022 1:07:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Energy","messageBody":{"clientID":1,"count":5,"source":"EnergySpace"}}utilities.objects.JSONMessage@34b11b55[32m
+Feb. 11, 2022 1:07:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"RefillShop","messageBody":{"cards":["MEMORY SWAP","MEMORY SWAP"]}}utilities.objects.JSONMessage@20b14d9c[32m
+Feb. 11, 2022 1:07:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@54786809[32m
+Feb. 11, 2022 1:07:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_0_6-west, red_0_3-west]","to":-1}}utilities.objects.JSONMessage@564a91eb[32m
+Feb. 11, 2022 1:07:38 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2b15accf[32m
+Feb. 11, 2022 1:07:43 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@3cbab184[32m
+Feb. 11, 2022 1:08:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"HelloClient","messageBody":{"protocol":"Version 2.1"}}utilities.objects.JSONMessage@511ef3cb[32m
+Feb. 11, 2022 1:08:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Welcome","messageBody":{"clientID":1}}utilities.objects.JSONMessage@6bde9019[32m
+Feb. 11, 2022 1:08:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@1096a880[32m
+Feb. 11, 2022 1:08:33 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerValues","messageBody":{"name":"b","figure":1}}utilities.objects.JSONMessage@fd7bcd3[32m
+Feb. 11, 2022 1:08:33 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerAdded","messageBody":{"clientID":1,"name":"b","figure":1}}utilities.objects.JSONMessage@4f7fd863[32m
+Feb. 11, 2022 1:08:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Info about current players:","to":1}}utilities.objects.JSONMessage@67264779[32m
+Feb. 11, 2022 1:08:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerAdded","messageBody":{"clientID":1,"name":"b","figure":1}}utilities.objects.JSONMessage@1ce8db9b[32m
+Feb. 11, 2022 1:08:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"The map is: empty","to":1}}utilities.objects.JSONMessage@34b23acd[32m
+Feb. 11, 2022 1:08:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SetStatus","messageBody":{"ready":true}}utilities.objects.JSONMessage@61faaead[32m
+Feb. 11, 2022 1:08:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerStatus","messageBody":{"clientID":1,"ready":true}}utilities.objects.JSONMessage@7f0acbff[32m
+Feb. 11, 2022 1:08:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectMap","messageBody":{"availableMaps":["DizzyHighway","ExtraCrispy","LostBearings","DeathTrap"]}}utilities.objects.JSONMessage@45ac44d0[32m
+Feb. 11, 2022 1:08:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"FirstReadyPlayersID1","to":1}}utilities.objects.JSONMessage@4076f91e[32m
+Feb. 11, 2022 1:08:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Error","messageBody":{"error":"Waiting until a map is selected..."}}utilities.objects.JSONMessage@46290a7f[32m
+Feb. 11, 2022 1:08:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@61045cae[32m
+Feb. 11, 2022 1:08:37 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"MapSelected","messageBody":{"map":"DizzyHighway"}}utilities.objects.JSONMessage@164de799[32m
+Feb. 11, 2022 1:08:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7c2b9d2f[32m
+Feb. 11, 2022 1:08:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerAdded","messageBody":{"clientID":2,"name":"r","figure":2}}utilities.objects.JSONMessage@72df1a27[32m
+Feb. 11, 2022 1:08:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayerStatus","messageBody":{"clientID":2,"ready":true}}utilities.objects.JSONMessage@317dc9fe[32m
+Feb. 11, 2022 1:08:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Game starts now.","to":-1}}utilities.objects.JSONMessage@48f58167[32m
+Feb. 11, 2022 1:08:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":0}}utilities.objects.JSONMessage@cdb8fe8[32m
+Feb. 11, 2022 1:08:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@78808521[32m
+Feb. 11, 2022 1:08:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@5f07ebd8[32m
+Feb. 11, 2022 1:08:51 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2352c494[32m
+Feb. 11, 2022 1:08:56 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@66a4e63d[32m
+Feb. 11, 2022 1:09:01 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@5cf23f9c[32m
+Feb. 11, 2022 1:09:01 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"StartingPointTaken","messageBody":{"x":0,"y":3,"clientID":1}}utilities.objects.JSONMessage@9885398[32m
+Feb. 11, 2022 1:09:01 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@4aba5322[32m
+Feb. 11, 2022 1:09:01 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_0_3-west]","to":-1}}utilities.objects.JSONMessage@752d4a9e[32m
+Feb. 11, 2022 1:09:03 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"StartingPointTaken","messageBody":{"x":0,"y":6,"clientID":2}}utilities.objects.JSONMessage@36948ee[32m
+Feb. 11, 2022 1:09:03 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":1}}utilities.objects.JSONMessage@1c0f9ba7[32m
+Feb. 11, 2022 1:09:03 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Energy","messageBody":{"clientID":1,"count":5,"source":"EnergySpace"}}utilities.objects.JSONMessage@76ad7bda[32m
+Feb. 11, 2022 1:09:03 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"RefillShop","messageBody":{"cards":["ADMIN PRIVILEGE","REAR LASER"]}}utilities.objects.JSONMessage@235e30b1[32m
+Feb. 11, 2022 1:09:03 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@5660191f[32m
+Feb. 11, 2022 1:09:03 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_0_3-west, red_0_6-west]","to":-1}}utilities.objects.JSONMessage@3d058148[32m
+Feb. 11, 2022 1:09:06 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@3039e826[32m
+Feb. 11, 2022 1:09:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@66c7b7df[32m
+Feb. 11, 2022 1:09:16 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@29e7647d[32m
+Feb. 11, 2022 1:09:17 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"You chose not to buy an upgrade card.","to":1}}utilities.objects.JSONMessage@3879bfc8[32m
+Feb. 11, 2022 1:09:17 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@477e1839[32m
+Feb. 11, 2022 1:09:19 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":2}}utilities.objects.JSONMessage@e8a7d2c[32m
+Feb. 11, 2022 1:09:19 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnLeft","BackUp","Again","Move1","Move2","Again","Move2","TurnLeft","TurnRight"]}}utilities.objects.JSONMessage@6c5dfd8f[32m
+Feb. 11, 2022 1:09:19 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Please fill your registers 0 to 4.","to":-1}}utilities.objects.JSONMessage@1825b6a5[32m
+Feb. 11, 2022 1:09:21 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@3547ff26[32m
+Feb. 11, 2022 1:09:22 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectedCard","messageBody":{"card":"Move1","register":0}}utilities.objects.JSONMessage@3675dd84[32m
+Feb. 11, 2022 1:09:22 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":1,"register":0,"filled":true}}utilities.objects.JSONMessage@59d03c6[32m
+Feb. 11, 2022 1:09:22 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnLeft","BackUp","Again","Move2","Again","Move2","TurnLeft","TurnRight"]}}utilities.objects.JSONMessage@4f31a8c2[32m
+Feb. 11, 2022 1:09:24 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectedCard","messageBody":{"card":"Move2","register":1}}utilities.objects.JSONMessage@18f6a6b3[32m
+Feb. 11, 2022 1:09:24 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":1,"register":1,"filled":true}}utilities.objects.JSONMessage@66b49db5[32m
+Feb. 11, 2022 1:09:24 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnLeft","BackUp","Again","Again","Move2","TurnLeft","TurnRight"]}}utilities.objects.JSONMessage@bda3196[32m
+Feb. 11, 2022 1:09:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectedCard","messageBody":{"card":"Move2","register":2}}utilities.objects.JSONMessage@49efff97[32m
+Feb. 11, 2022 1:09:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":1,"register":2,"filled":true}}utilities.objects.JSONMessage@64010b27[32m
+Feb. 11, 2022 1:09:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnLeft","BackUp","Again","Again","TurnLeft","TurnRight"]}}utilities.objects.JSONMessage@261a6b27[32m
+Feb. 11, 2022 1:09:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7c96b8f3[32m
+Feb. 11, 2022 1:09:28 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectedCard","messageBody":{"card":"Again","register":3}}utilities.objects.JSONMessage@4ab3f3b1[32m
+Feb. 11, 2022 1:09:28 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":1,"register":3,"filled":true}}utilities.objects.JSONMessage@268781f3[32m
+Feb. 11, 2022 1:09:28 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnLeft","BackUp","Again","TurnLeft","TurnRight"]}}utilities.objects.JSONMessage@53318557[32m
+Feb. 11, 2022 1:09:30 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectedCard","messageBody":{"card":"Again","register":4}}utilities.objects.JSONMessage@1a29fee2[32m
+Feb. 11, 2022 1:09:30 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":1,"register":4,"filled":true}}utilities.objects.JSONMessage@4f52a86d[32m
+Feb. 11, 2022 1:09:30 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":["TurnLeft","BackUp","TurnLeft","TurnRight"]}}utilities.objects.JSONMessage@5540306d[32m
+Feb. 11, 2022 1:09:30 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectionFinished","messageBody":{"clientID":1}}utilities.objects.JSONMessage@5f0f3df3[32m
+Feb. 11, 2022 1:09:30 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"TimerStarted","messageBody":{}}utilities.objects.JSONMessage@51d36c32[32m
+Feb. 11, 2022 1:09:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7f8554fd[32m
+Feb. 11, 2022 1:09:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":2,"register":0,"filled":true}}utilities.objects.JSONMessage@35fd05c3[32m
+Feb. 11, 2022 1:09:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":2,"register":1,"filled":true}}utilities.objects.JSONMessage@9c7eec4[32m
+Feb. 11, 2022 1:09:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":2,"register":2,"filled":true}}utilities.objects.JSONMessage@217e6793[32m
+Feb. 11, 2022 1:09:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7489fdfd[32m
+Feb. 11, 2022 1:09:37 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":2,"register":3,"filled":true}}utilities.objects.JSONMessage@29872db2[32m
+Feb. 11, 2022 1:09:40 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":2,"register":3,"filled":true}}utilities.objects.JSONMessage@1f805788[32m
+Feb. 11, 2022 1:09:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@4d10f914[32m
+Feb. 11, 2022 1:09:45 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardSelected","messageBody":{"clientID":2,"register":4,"filled":true}}utilities.objects.JSONMessage@76cd835e[32m
+Feb. 11, 2022 1:09:45 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SelectionFinished","messageBody":{"clientID":2}}utilities.objects.JSONMessage@6637ca88[32m
+Feb. 11, 2022 1:09:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7b96fdd1[32m
+Feb. 11, 2022 1:09:51 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@318473ee[32m
+Feb. 11, 2022 1:09:56 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2bc9c1f3[32m
+Feb. 11, 2022 1:10:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"TimerEnded","messageBody":{"clientIDs":[]}}utilities.objects.JSONMessage@3f462e52[32m
+Feb. 11, 2022 1:10:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":[]}}utilities.objects.JSONMessage@486cbb44[32m
+Feb. 11, 2022 1:10:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":3}}utilities.objects.JSONMessage@2a1041ac[32m
+Feb. 11, 2022 1:10:00 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@5da0a581[32m
+Feb. 11, 2022 1:10:01 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2b184f26[32m
+Feb. 11, 2022 1:10:06 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@73cc7b69[32m
+Feb. 11, 2022 1:10:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2a1537fa[32m
+Feb. 11, 2022 1:10:16 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@4501f146[32m
+Feb. 11, 2022 1:10:21 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2c09f7bf[32m
+Feb. 11, 2022 1:10:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@3c8ec664[32m
+Feb. 11, 2022 1:10:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@3fa78ce8[32m
+Feb. 11, 2022 1:10:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":1,"isPrivate":false}}utilities.objects.JSONMessage@16b16497[32m
+Feb. 11, 2022 1:10:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@5c462dc3[32m
+Feb. 11, 2022 1:10:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayCard","messageBody":{"card":"Move1"}}utilities.objects.JSONMessage@6c610511[32m
+Feb. 11, 2022 1:10:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":1,"card":"Move1"}}utilities.objects.JSONMessage@6403994f[32m
+Feb. 11, 2022 1:10:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Movement","messageBody":{"clientID":1,"x":1,"y":3}}utilities.objects.JSONMessage@21edbba8[32m
+Feb. 11, 2022 1:10:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_3-west, red_0_6-west]","to":-1}}utilities.objects.JSONMessage@4fee297c[32m
+Feb. 11, 2022 1:10:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":2,"isPrivate":false}}utilities.objects.JSONMessage@954db9a[32m
+Feb. 11, 2022 1:10:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@452801e3[32m
+Feb. 11, 2022 1:10:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@a012030[32m
+Feb. 11, 2022 1:10:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":2,"card":"Move1"}}utilities.objects.JSONMessage@1e9fe55a[32m
+Feb. 11, 2022 1:10:32 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_3-west, red_1_6-west]","to":-1}}utilities.objects.JSONMessage@1d1c4619[32m
+Feb. 11, 2022 1:10:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@7b0e540a[32m
+Feb. 11, 2022 1:10:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@e00c05c[32m
+Feb. 11, 2022 1:10:34 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_1_3-west, red_1_6-west]","to":-1}}utilities.objects.JSONMessage@6f5451f3[32m
+Feb. 11, 2022 1:10:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":1,"isPrivate":false}}utilities.objects.JSONMessage@1007fe8e[32m
+Feb. 11, 2022 1:10:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@19205680[32m
+Feb. 11, 2022 1:10:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayCard","messageBody":{"card":"Move2"}}utilities.objects.JSONMessage@11aa67d8[32m
+Feb. 11, 2022 1:10:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":1,"card":"Move2"}}utilities.objects.JSONMessage@5cbc77d7[32m
+Feb. 11, 2022 1:10:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Movement","messageBody":{"clientID":1,"x":3,"y":3}}utilities.objects.JSONMessage@73601140[32m
+Feb. 11, 2022 1:10:35 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_3_3-west, red_1_6-west]","to":-1}}utilities.objects.JSONMessage@686fcdfa[32m
+Feb. 11, 2022 1:10:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2ab9f388[32m
+Feb. 11, 2022 1:10:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":2,"isPrivate":false}}utilities.objects.JSONMessage@15843bc7[32m
+Feb. 11, 2022 1:10:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@669dc226[32m
+Feb. 11, 2022 1:10:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@708bc312[32m
+Feb. 11, 2022 1:10:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":2,"card":"Move2"}}utilities.objects.JSONMessage@154b4b38[32m
+Feb. 11, 2022 1:10:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_3_3-west, red_3_6-west]","to":-1}}utilities.objects.JSONMessage@21251055[32m
+Feb. 11, 2022 1:10:37 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@29a16aa5[32m
+Feb. 11, 2022 1:10:37 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_3_3-west, red_3_6-west]","to":-1}}utilities.objects.JSONMessage@79cafd0[32m
+Feb. 11, 2022 1:10:37 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@48c12690[32m
+Feb. 11, 2022 1:10:39 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":1,"isPrivate":false}}utilities.objects.JSONMessage@416f2065[32m
+Feb. 11, 2022 1:10:39 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@63b98eaf[32m
+Feb. 11, 2022 1:10:39 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayCard","messageBody":{"card":"Move2"}}utilities.objects.JSONMessage@1395f27[32m
+Feb. 11, 2022 1:10:39 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":1,"card":"Move2"}}utilities.objects.JSONMessage@400d1c36[32m
+Feb. 11, 2022 1:10:39 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Movement","messageBody":{"clientID":1,"x":5,"y":3}}utilities.objects.JSONMessage@78d9705a[32m
+Feb. 11, 2022 1:10:39 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_5_3-west, red_3_6-west]","to":-1}}utilities.objects.JSONMessage@573a5518[32m
+Feb. 11, 2022 1:10:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":2,"isPrivate":false}}utilities.objects.JSONMessage@1cb1e8bf[32m
+Feb. 11, 2022 1:10:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@3475bbb3[32m
+Feb. 11, 2022 1:10:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@71d56c7[32m
+Feb. 11, 2022 1:10:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":2,"card":"Move1"}}utilities.objects.JSONMessage@28a41a9[32m
+Feb. 11, 2022 1:10:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_5_3-west, red_4_6-west]","to":-1}}utilities.objects.JSONMessage@116db557[32m
+Feb. 11, 2022 1:10:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@8dc2cea[32m
+Feb. 11, 2022 1:10:42 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@651af858[32m
+Feb. 11, 2022 1:10:42 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@354d6a5b[32m
+Feb. 11, 2022 1:10:42 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_5_3-west, red_4_6-west]","to":-1}}utilities.objects.JSONMessage@4976a6a8[32m
+Feb. 11, 2022 1:10:44 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":2,"isPrivate":false}}utilities.objects.JSONMessage@20a47810[32m
+Feb. 11, 2022 1:10:44 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@124e8c64[32m
+Feb. 11, 2022 1:10:44 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":2,"card":"Move3"}}utilities.objects.JSONMessage@4c0f33c4[32m
+Feb. 11, 2022 1:10:44 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_5_3-west, red_7_6-west]","to":-1}}utilities.objects.JSONMessage@30308f0b[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@33d705e5[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":1,"isPrivate":false}}utilities.objects.JSONMessage@551c8257[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@60381a23[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayCard","messageBody":{"card":"Move2"}}utilities.objects.JSONMessage@544489f8[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@5f3756b8[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":1,"card":"Move2"}}utilities.objects.JSONMessage@6e087933[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Movement","messageBody":{"clientID":1,"x":7,"y":3}}utilities.objects.JSONMessage@4e418fd3[32m
+Feb. 11, 2022 1:10:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_7_3-west, red_7_6-west]","to":-1}}utilities.objects.JSONMessage@3e3ac4aa[32m
+Feb. 11, 2022 1:10:47 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@5bddd743[32m
+Feb. 11, 2022 1:10:47 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@76b1fcea[32m
+Feb. 11, 2022 1:10:47 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_7_3-west, red_7_6-west]","to":-1}}utilities.objects.JSONMessage@34cccaf8[32m
+Feb. 11, 2022 1:10:49 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":1,"isPrivate":false}}utilities.objects.JSONMessage@5c3b575f[32m
+Feb. 11, 2022 1:10:49 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@69e9f454[32m
+Feb. 11, 2022 1:10:49 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"PlayCard","messageBody":{"card":"Move2"}}utilities.objects.JSONMessage@10c6132f[32m
+Feb. 11, 2022 1:10:49 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":1,"card":"Move2"}}utilities.objects.JSONMessage@428f90c5[32m
+Feb. 11, 2022 1:10:49 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Movement","messageBody":{"clientID":1,"x":9,"y":3}}utilities.objects.JSONMessage@4488b664[32m
+Feb. 11, 2022 1:10:49 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_9_3-west, red_7_6-west]","to":-1}}utilities.objects.JSONMessage@6265b1f5[32m
+Feb. 11, 2022 1:10:51 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@429a89fd[32m
+Feb. 11, 2022 1:10:56 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7cad20d3[32m
+Feb. 11, 2022 1:11:01 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7d1792b4[32m
+Feb. 11, 2022 1:11:06 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@32b26efa[32m
+Feb. 11, 2022 1:11:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2471dc30[32m
+Feb. 11, 2022 1:11:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ReceivedChat","messageBody":{"message":"Play next Card.","from":2,"isPrivate":false}}utilities.objects.JSONMessage@314fcbd5[32m
+Feb. 11, 2022 1:11:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@700c6d7a[32m
+Feb. 11, 2022 1:11:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@5168183f[32m
+Feb. 11, 2022 1:11:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CardPlayed","messageBody":{"clientID":2,"card":"TurnLeft"}}utilities.objects.JSONMessage@7b52ce7e[32m
+Feb. 11, 2022 1:11:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_9_3-west, red_7_6-south]","to":-1}}utilities.objects.JSONMessage@348cb3a2[32m
+Feb. 11, 2022 1:11:13 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":0}}utilities.objects.JSONMessage@27f87ff4[32m
+Feb. 11, 2022 1:11:13 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Your registers have been emptied.","to":1}}utilities.objects.JSONMessage@36c022d4[32m
+Feb. 11, 2022 1:11:13 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Current positions are: [blue_9_3-west, red_7_6-south]","to":-1}}utilities.objects.JSONMessage@d112759[32m
+Feb. 11, 2022 1:11:13 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":1}}utilities.objects.JSONMessage@19f0781e[32m
+Feb. 11, 2022 1:11:13 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ExchangeShop","messageBody":{"cards":["REAR LASER","MEMORY SWAP"]}}utilities.objects.JSONMessage@47735668[32m
+Feb. 11, 2022 1:11:13 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":2}}utilities.objects.JSONMessage@63851995[32m
+Feb. 11, 2022 1:11:16 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@3e98d39b[32m
+Feb. 11, 2022 1:11:21 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@19b24362[32m
+Feb. 11, 2022 1:11:23 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"CurrentPlayer","messageBody":{"clientID":1}}utilities.objects.JSONMessage@717a32db[32m
+Feb. 11, 2022 1:11:25 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"You chose not to buy an upgrade card.","to":1}}utilities.objects.JSONMessage@3af8c4d0[32m
+Feb. 11, 2022 1:11:25 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"ActivePhase","messageBody":{"phase":2}}utilities.objects.JSONMessage@4204dc1f[32m
+Feb. 11, 2022 1:11:25 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"YourCards","messageBody":{"cardsInHand":["Move2","PowerUp","Move1","TurnLeft","Move1","UTurn","TurnRight","Move1","TurnRight"]}}utilities.objects.JSONMessage@49a62e6e[32m
+Feb. 11, 2022 1:11:25 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"SendChat","messageBody":{"message":"Please fill your registers 0 to 4.","to":-1}}utilities.objects.JSONMessage@69ea216b[32m
+Feb. 11, 2022 1:11:26 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@1548a6c2[32m
+Feb. 11, 2022 1:11:31 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@71c87450[32m
+Feb. 11, 2022 1:11:36 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@965e159[32m
+Feb. 11, 2022 1:11:41 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@313c6867[32m
+Feb. 11, 2022 1:11:46 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@6192a634[32m
+Feb. 11, 2022 1:11:51 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@534a24a2[32m
+Feb. 11, 2022 1:11:56 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@758368bb[32m
+Feb. 11, 2022 1:12:01 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@272e593c[32m
+Feb. 11, 2022 1:12:06 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@53f9f8eb[32m
+Feb. 11, 2022 1:12:11 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@5194a902[32m
+Feb. 11, 2022 1:12:16 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@3fbcd53b[32m
+Feb. 11, 2022 1:12:43 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"HelloClient","messageBody":{"protocol":"Version 2.1"}}utilities.objects.JSONMessage@17851bc4[32m
+Feb. 11, 2022 1:12:43 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Welcome","messageBody":{"clientID":1}}utilities.objects.JSONMessage@71a41994[32m
+Feb. 11, 2022 1:12:47 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@7ba760eb[32m
+Feb. 11, 2022 1:12:52 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@2a9eaeb2[32m
+Feb. 11, 2022 1:12:57 AM viewModel.Client run
+INFO: [32mJSONDecoder in Client done: {"messageType":"Alive","messageBody":{}}utilities.objects.JSONMessage@5f379090[32m
